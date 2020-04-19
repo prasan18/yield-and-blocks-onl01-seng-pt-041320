@@ -6,7 +6,7 @@
     i = i + 1
  
   while i < array.length
-    yiel
+    yield
   hello_t( ["Tim", "Tom", "Jim"] ) do |name|
   if name.start_with?("T")
     puts "Hi, #{name}."
