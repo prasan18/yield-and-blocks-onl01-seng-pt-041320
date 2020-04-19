@@ -5,6 +5,7 @@
     yield array[i]
     i = i + 1
   end
+  array
 end
 
 def hello_t( "Tim", "Tom", "Jim" ) do |name|
